@@ -6,7 +6,7 @@ Everyone taking this class for credit will be responsible for producing an appen
 - To call dibs on anything, just submit a [pr](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) and edit this page to put your name next to it.
 - Below I'll include a brief overview of each project, as well as a very rough indication of how difficult I expect it to be or any background that may be needed.
 
-## Stein manifolds and the Oka-Grauert principle
+## Stein manifolds and the Oka-Grauert principle (Dibs: Ari Krishna)
 Define Stein manifolds, and explain why every complex topological vector bundle on a complex Stein manifold admits a holomorphic structure
 
 ## Inoue surfaces
